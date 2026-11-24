@@ -1,0 +1,10 @@
+Company,Website,Email,Contact
+Acme Inc.,https://www.acme-example.com/,Jane.Doe@acme-example.com,Jane Doe
+ACME INC,acme-example.com,jane.doe@ACME-example.com,Jane Doe
+Globex LLC,globex-example.com,info@globex-example.com,
+Initech,not a domain,bob@initech-example.com,Bob
+Hooli Ltd,hooli-example.com,,
+Umbrella Corp,http://umbrella-example.com:8080/team,sam@mailinator.com,Sam
+Stark Industries,stark-example.com,tony@gmail.com,Tony
+Wayne Co.,www.wayne-example.com,bruce@@wayne-example.com,Bruce
+Wonka GmbH,wonka-example.com,"Willy Wonka <willy@wonka-example.com>",Willy
