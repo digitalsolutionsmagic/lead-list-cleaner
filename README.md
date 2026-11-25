@@ -39,7 +39,7 @@ Read 9 rows from sample_leads.csv
   invalid: 3
   duplicate: 1
 Flags: disposable_email=1, duplicate=1, free_provider_email=1, invalid_domain=1, invalid_email=1, missing_email=1, role_email=1
-Wrote 9 rows to sample.cleaned.csv
+Wrote 9 rows to sample_leads.cleaned.csv
 ```
 
 | Company | clean_status | clean_flags |
